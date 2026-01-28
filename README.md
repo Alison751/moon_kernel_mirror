@@ -1,3 +1,4 @@
+![Hutao](Hutao_wallpaper.jpg)
 | Device | Model | Tag alias | Link |
 | :-: | :-: | :-: | :-: |
 | umi | Mi 10 | in-Kernelsu | [umi-kernel](https://github.com/sticpaper/moon_kernel_mirror/tree/main/umi/kernelsu) |
