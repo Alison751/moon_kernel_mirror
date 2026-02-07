@@ -15,5 +15,6 @@
 | dagu | Xiaomi Pad 5 Pro 12.4 | in-Kernelsu | [dagu-kernel](https://github.com/sticpaper/moon_kernel_mirror/tree/main/dagu) |
 | gauguin | Redmi Note 9 Pro | in-Kernelsu | [gauguin-kernel](https://github.com/sticpaper/moon_kernel_mirror/tree/main/gauguin) |
 | pipa | Xiaomi Pad 6 | in-Kernelsu | [pipa-kernel](https://github.com/sticpaper/moon_kernel_mirror/tree/main/pipa) |
+| apollo | Redmi K30S Ultra | in-Kernelsu | [apollo-kernel](https://github.com/sticpaper/moon_kernel_mirror/tree/main/apollo) |
 
 ## in-Kernelsu will cease to be available from February 1, 2026,<br>and will only be released for debug or special purposes.
